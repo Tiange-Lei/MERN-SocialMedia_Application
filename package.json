@@ -1,0 +1,13 @@
+{
+  "name": "social_media_application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Tiange-Lei/MERN-SocialMedia_Application.git",
+  "author": "Tiange-Lei <encore0722@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces":[
+    "packages/*",
+    "app/*"
+  ]
+}
